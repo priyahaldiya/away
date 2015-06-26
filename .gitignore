@@ -1,0 +1,38 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# vi/vim
+*.swp
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# SVN
+.svn
+
+# Sass files
+_*.scss
+
+# Node
+node_modules/
+
+# Bower
+bower_components/
+
+# cruft
+*.dmp
+
+# images - these are intended to be from style-guide only - alter this if/when necessary
+*.svg
+

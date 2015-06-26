@@ -1,0 +1,26 @@
+{
+  "name": "safetyinspection",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.4.0-beta.1",
+    "angular-resource": "1.4.0-beta.1",
+    "angular-route": "1.4.0-beta.1",
+    "angular-cookies": "1.4.0-beta.1",
+    "angular-animate": "1.4.0-beta.1",
+    "angular-mocks": "1.4.0-beta.1",
+    "angular-touch": "1.4.0-beta.1",
+    "angular-sanitize": "1.4.0-beta.1",
+    "angular-ui-bootstrap-bower": "0.12.0",
+    "angulartics": "latest",
+    "less.js": "latest",
+    "bootstrap-sass": "~3.3.5",
+    "lodash": "~3.9.3",
+    "momentjs": "latest",
+    "textAngular": "latest",
+    "style-guide-bower": "https://bitbucket.org/ucd-itservices/style-guide-bower.git#v1.3.0",
+    "boostrap-sass": "~3.3.5"
+  },
+  "resolutions": {
+    "angular": "1.4.0-beta.1"
+  }
+}
